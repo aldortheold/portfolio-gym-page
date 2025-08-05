@@ -4,27 +4,27 @@ const athletes = [
     {
         name: "Дэвид Гоггинс",
         desc: "Бывший Морской Котик, ультра-атлет, икона ментальной стойкости.",
-        img: "../public/images/goggins.jpg"
+        img: "images/goggins.jpg"
     },
     {
         name: "Кэмерон Хейнс",
         desc: "Охотник и ультра-атлет, пример неустанной работы.",
-        img: "../public/images/hanes.jpg"
+        img: "images/hanes.jpg"
     },
     {
         name: "Ронни Коулмэн",
         desc: "8-кратный Мистер Олимпия, легенда бодибилдинга.",
-        img: "../public/images/ronnie.png"
+        img: "images/ronnie.png"
     },
     {
         name: "Уилл Теннисон",
         desc: "Фитнес-ютубер и наставник, всегда с юмором.",
-        img: "../public/images/tennyson.png"
+        img: "images/tennyson.png"
     },
     {
         name: "Элиуд Кипчоге",
         desc: "Рекордсмен марафона, символ дисциплины.",
-        img: "../public/images/kipchoge.png"
+        img: "images/kipchoge.png"
     }
 ];
 
